@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+
+    background-color: rgb(243, 174, 240);
+}
+
+.listaMenu{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.carruselStyle{
+
+    height: 600px;
+
+}
+
+
+.marketing{
+ 
+    margin-top: 50px;
+    margin-right: 5px;
+
+}
+
+.prueba img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.prueba h2{
+    text-align: center;
+  }
+
